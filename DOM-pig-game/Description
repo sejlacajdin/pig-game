@@ -15,3 +15,8 @@ How to change the image in an <img> element
 UPDATING SCORES AND CHANGING THE ACTIVE PLAYER
 What the ternary operator is;
 How to ass, remove and toggle HTML classes.
+
+IMPLEMENTING 'HOLD' FUNCTION AND THE DRY PRINCIPLE
+How to use functions to correctly apply the DRY principle
+How to think about the game logic like a programmer 
+What a state variable is, how to use it and why
