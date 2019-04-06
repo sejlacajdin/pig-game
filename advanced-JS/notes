@@ -6,7 +6,7 @@ that are created through it;
 moves on to the object's prototype. This continues until the method is found: PROTOTYPE CHAIN.
 
 
-FIRST CLASS FUNCTIONS
+FIRST-CLASS FUNCTIONS
 A function is an instance of the Object type;
 A function behaves like any other object;
 We can store functions in a variable;
